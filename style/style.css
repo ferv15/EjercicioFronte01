@@ -8,6 +8,7 @@ body{
 }
 .imagen{
     overflow: scroll;
+    border-radius: 15px;
 }
 /* h2,p{
     text-align: center;
